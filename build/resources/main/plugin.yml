@@ -1,0 +1,4 @@
+name: EasterEvent
+version: '2'
+main: dev.codeoverload.easterevent.EasterEvent
+api-version: '1.20'
